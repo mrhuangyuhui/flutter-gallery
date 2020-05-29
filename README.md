@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/flutter/gallery) 
+
 # Flutter Gallery
 
 Flutter Gallery is a resource to help developers evaluate and use Flutter.
